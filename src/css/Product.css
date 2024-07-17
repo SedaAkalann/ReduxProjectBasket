@@ -1,0 +1,29 @@
+.card {
+  width: 230px;
+  height: 450px;
+  box-shadow: 1px 4px 3px lightgray;
+  border-radius: 10px;
+  margin: 15px;
+  transition: all ease 0.5s;
+}
+.card:hover {
+  box-shadow: 1px 8px 4px rgb(89, 91, 91);
+  cursor: pointer;
+}
+
+.image {
+  width: 180px;
+  height: 240px;
+}
+.productBtn {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: cadetblue;
+  color: aliceblue;
+}
+.productBtn:hover {
+  cursor: pointer;
+  background-color: teal;
+  color: aliceblue;
+}

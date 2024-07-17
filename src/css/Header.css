@@ -1,0 +1,13 @@
+.headerInp {
+  border: none;
+  outline: none;
+  border-bottom: 1px solid yellow;
+  padding: 8px;
+  margin: 8px;
+}
+.headerInp:hover {
+  cursor: pointer;
+}
+.headerIcon {
+  font-size: 23px;
+}
